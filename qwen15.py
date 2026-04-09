@@ -7,8 +7,8 @@ import asyncio
 import time
 import json
 
-API_TOKEN = "7601993893:AAG7hceI92xtfvoYuKj07f6WHBGjo7IJ1YQ"
-LMSTUDIO_URL = "http://127.0.0.1:1234/v1/chat/completions"
+API_TOKEN = "BOT_TOKEN"
+LMSTUDIO_URL = "URL"
 MODEL_NAME = "qwen1.5-7b-chat"
 
 logging.basicConfig(level=logging.INFO)
